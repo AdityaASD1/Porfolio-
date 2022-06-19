@@ -377,6 +377,7 @@ contact me */
 .container-sm ul {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap:3.5rem;
   position: relative;
   margin: 0;
